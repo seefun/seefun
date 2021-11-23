@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **seefun/seefun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![seefun's github stats](https://github-readme-stats.vercel.app/api?username=seefun&show_icons=true&hide_border=true)
+![seefun's kaggle stats](https://road-to-kaggle-grandmaster.vercel.app/api/badges/seefun/competition/light)
