@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 -->
 
 ![seefun's github stats](https://github-readme-stats.vercel.app/api?username=seefun&show_icons=true&hide_border=true)
-![seefun's kaggle stats](https://road-to-kaggle-grandmaster.vercel.app/api/badges/seefun/competition/light)
